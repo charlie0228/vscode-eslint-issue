@@ -12,7 +12,7 @@ export default {
   computed: {
     pageData() {
       return Date.now()
-    },
-  },
+    }
+  }
 } as ThisTypedComponentOptionsWithRecordProps<Vue, {}, {}, {}, {}>
 </script>
